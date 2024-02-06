@@ -1,0 +1,7 @@
+# Sample YAML file
+name: Disha Mittal
+age: 23
+email: dishamittal@gmx.de
+address:
+  city: Offenburg
+  zipcode: 77652
